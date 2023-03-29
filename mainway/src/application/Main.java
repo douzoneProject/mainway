@@ -24,6 +24,7 @@ public class Main extends Application {
 		launch(args);
 		System.out.println("ㅇㅇ");
 		System.out.println("ㅇㅇ");
+		System.out.println("ㅇㅇ");
 	}
 	
 }
